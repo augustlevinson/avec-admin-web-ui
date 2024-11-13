@@ -1,2 +1,2 @@
 # avec-admin-web-ui
-Repository for the admin interface frontend
+*Admin user interface. Part of the [AVEC project](https://github.com/caas23/vteam-root).*
